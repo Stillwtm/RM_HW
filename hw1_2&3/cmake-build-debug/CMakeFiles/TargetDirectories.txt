@@ -1,0 +1,3 @@
+/home/snorlax/CLionProjects/HW_RM/hw1_2&3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/snorlax/CLionProjects/HW_RM/hw1_2&3/cmake-build-debug/CMakeFiles/hw1_2_3.dir
+/home/snorlax/CLionProjects/HW_RM/hw1_2&3/cmake-build-debug/CMakeFiles/edit_cache.dir

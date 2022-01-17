@@ -1,0 +1,5 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /home/snorlax/CLionProjects/HW_RM/hw4_1
+-- Found OpenCV: /usr/local (found version "4.5.4") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/snorlax/CLionProjects/HW_RM/hw4_1/cmake-build-debug
